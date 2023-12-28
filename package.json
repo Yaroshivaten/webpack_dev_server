@@ -3,7 +3,7 @@
   "version": "4.9.0",
   "description": "Serves a webpack app. Updates the browser on changes.",
   "bin": "bin/webpack-dev-server.js",
-  "main": "lib/Server.js",
+  "main": "lib/Servers.js",
   "types": "types/lib/Server.d.ts",
   "files": [
     "bin",
